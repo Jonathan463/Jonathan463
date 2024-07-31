@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jonathan463
-- 👀 I’m interested in Java Web Development With Spring Boot And Spring MVC
-- 🌱 I’m currently learning RESTful Api and Spring Security
-- 💞️ I’m looking to collaborate on Spring Boot Projects
+- 👀 I’m passionate about Software Development Using Java, C# and Python
+- 🌱 I’m currently focused on Restful and SOAP API's
+- 💞️ I’m open to collaborate on Microservice Projects And AI projects
 - 📫 How to reach me godsonjonathan39@gmail.com
 
 <!---
